@@ -73,7 +73,7 @@ Nurturing both is equally important.
 DripVerse enables builders to reduce their building time and resource usage by almost 1/10<sup>th</sup>, while maintaining a greater control over the utility to be integrated. Thereby also reducing the time and cost to the project not just while development but also while maintaining as it'd be a click away to upgrade. Using the no-code UI provided, builders who are also non-programmers can take advantage of the integration and be done within minutes from what would have been an development process of weeks.
 
 ## Explorers
-While the advantages are greater for the builders, the users or explorers will also get the benefit and freedom to move the assets freely and seemlessly across chain and multiple networks. Supporting multiple wallets and a wide range of supported marketplaces, bridges and options to choose from. Since the custom Smart NFT contract will reduce the number of transactions required and lower fee by moving most excrutiating tasks to Layer 2 network, thereby saving in millions throughout.
+While the advantages are greater for the builders, the users or explorers will also get the benefit and freedom to move the assets freely and seamlessly across chain and multiple networks. Supporting multiple wallets and a wide range of supported marketplaces, bridges and options to choose from. Since the custom Smart NFT contract will reduce the number of transactions required and lower fee by moving most excrutiating tasks to Layer 2 network, thereby saving in millions throughout.
 
 # Conclusion
 Smart NFTs are the undoubtedly future of NFTs. And DripVerse Tools are here to nurture and grow the ecosystem.
